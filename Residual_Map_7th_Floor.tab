@@ -1,0 +1,21 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  File "Residual_Map_7th_Floor.png"
+  Type "RASTER"
+  (-77.0070456,38.9037047) (1253,57) Label "GCP 0",
+  (-77.0070846,38.9037323) (1353,31) Label "GCP 1",
+  (-77.0073539,38.9036513) (729,26) Label "GCP 2",
+  (-77.0074395,38.9035914) (703,344) Label "GCP 3",
+  (-77.0075627,38.9037681) (104,31) Label "GCP 4",
+  (-77.0077553,38.9035562) (47,552) Label "GCP 5",
+  (-77.0074593,38.9034621) (729,637) Label "GCP 6",
+  (-77.0075310,38.9034920) (473,635) Label "GCP 7",
+  (-77.0071300,38.9035900) (1307,630) Label "GCP 8",
+  (-77.0072200,38.9036100) (985,372) Label "GCP 9",
+  (-77.0076400,38.9037000) (472,373) Label "GCP 10"
+  CoordSys Earth Projection 1, 104
+  Units "degree"
+
